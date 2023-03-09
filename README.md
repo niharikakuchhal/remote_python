@@ -1,6 +1,8 @@
-This is a README file,that describe the project.
-In this differnt type of pattern is printing.
+# Get Repository to understand working of git
+## This is just a demo repository.
 
-~README.md - describe the file
-~pattern.py - print the pattern
+In this we have differnt type of pattern to printing.
 
+- `README.md`  describe the file
+- `pattern.py`  print the pattern
+- 'pattern2.py' this is a right angel pattern.
